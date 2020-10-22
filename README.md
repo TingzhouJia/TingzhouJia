@@ -1,7 +1,7 @@
 ### Hi there, :sparkles:
 I am young fullstack developer focus on frontend development and nodejs 
 
-- 🌱 I’m currently learning Java and Flutter
+- 🌱 I’m currently learning Java and Python
 - 🤔 I’m looking for help with DevsOp
 
 - 📫 How to reach me: joe.tzjia@gmail.com
