@@ -1,5 +1,5 @@
 ### Hi there, :sparkles:
-I am young fullstack developer focus on frontend development and nodejs 
+I focus on frontend development and nodejs 
 - :hammer: I'm working on [Rong UI](https://github.com/TingzhouJia/Rong)
 - 🌱 I’m currently learning Java and Go
 - 🤔 I’m looking for help with DevsOp
