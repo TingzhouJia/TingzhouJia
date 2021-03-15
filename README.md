@@ -1,7 +1,7 @@
 ### Hi there, :sparkles:
 I focus on frontend engineering development and nodejs.
 - :hammer: I'm working on [Rong UI](https://github.com/TingzhouJia/Rong)
-- 🌱 I’m currently learning Java and Go.
+- 🌱 I’m currently learning MicroService by Java and Go.
 - 🤔 I’m looking for help with DevsOp.
 
 - 📫 How to reach me: joe.tzjia@gmail.com
