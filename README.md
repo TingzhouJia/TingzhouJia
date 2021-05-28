@@ -4,7 +4,7 @@ I focus on frontend engineering development and nodejs.
 - 🌱 I’m currently learning MicroService by Java and Go.
 - 🤔 I’m looking for help with DevsOp.
 
-- 📫 How to reach me: joe.tzjia@gmail.com
+- 📫 How to reach me: [Joe Jia](https://www.linkedin.com/in/joe-jia-3a2582193/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TingzhouJia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
